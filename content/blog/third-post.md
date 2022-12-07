@@ -1,5 +1,5 @@
 ---
-title: 'This is my third article!'
+title: 'This is my 3 article!'
 description: 'You finally got the point about Nuxt content'
 img: 'img/cover (3).JPG'
 tags: [Nuxt, Content, Learning, third]
